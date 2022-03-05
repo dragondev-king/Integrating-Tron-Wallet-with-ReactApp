@@ -1,5 +1,5 @@
 {
-  "name": "tron-wallet-react-integration",
+  "name": "Integrating Tron wallet with React app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
